@@ -1,0 +1,3 @@
+ADVANCE NLP with spaCy
+Course link: https://course.spacy.io/en/
+Practice files chapter wise
